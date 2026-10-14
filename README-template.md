@@ -15,7 +15,6 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
   - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -43,86 +42,111 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="1558" height="2558" alt="victoriapriceking-cyber github io_blogr-landing-page_" src="https://github.com/user-attachments/assets/8d1ed75c-f6dd-4637-93c3-0b735378a17e" />
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blogr-responsive-landing-page-YlDKwANRm7](url)
+- Live Site URL: [Blogr Landing Page](https://victoriapriceking-cyber.github.io/blogr-landing-page/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+Semantic HTML5 markup
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+CSS3
+
+Flexbox
+
+CSS media queries
+
+CSS gradients and positioning
+
+Responsive design
+
+Vanilla JavaScript
+
+DOM manipulation and event listeners
+
+Git and GitHub for version control
+
+GitHub Pages for deployment
+
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This project helped me develop my HTML, CSS and JavaScript skills by applying them to a complete, responsive website.
 
-To see how you can add code snippets, see below:
+One of my biggest learning experiences was creating responsive layouts. I practised using Flexbox and media queries to adjust the layout for different screen sizes, including changing the order of content, resizing images and adapting the navigation for mobile devices.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+I also gained a better understanding of CSS positioning, particularly when working with illustrations and background images that needed to extend beyond their containers.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+Another important learning experience was building the interactive mobile navigation menu using JavaScript. I practised selecting HTML elements, adding event listeners and using classList.toggle() to control whether the navigation was visible.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+For example:
+
+menu.classList.toggle("open");
+
+This helped me understand how JavaScript can change the appearance and behaviour of a website by adding or removing CSS classes.
+
+Finally, I gained practical experience with Git and GitHub, including creating a repository, committing changes, pushing code and deploying a website using GitHub Pages.
+
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+In future projects, I would like to continue improving my skills in:
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Responsive design: Becoming more confident in building layouts that adapt smoothly across different screen sizes.
+
+CSS positioning: Improving my understanding of relative, absolute and other positioning techniques, particularly for more complex layouts.
+
+JavaScript: Developing more confidence in writing interactive functionality independently and working with the DOM.
+
+Accessibility: Learning more about keyboard navigation, semantic HTML and making interactive components accessible.
+
+Code organisation: Writing cleaner, more maintainable HTML, CSS and JavaScript.
+
+I would also like to become more efficient at translating designs into working websites and develop a better understanding of professional front-end development workflows.
+
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+MDN Web Docs - A useful reference for understanding HTML, CSS and JavaScript concepts.
+
+CSS-Tricks: Complete Guide to Flexbox - A helpful visual guide to Flexbox properties and layout behaviour.
+
+Frontend Mentor - Provided the design files and project requirements, allowing me to practise building a realistic website.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ### AI Collaboration
 
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
+I used ChatGPT as a learning and debugging assistant throughout this project.
 
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
+Rather than relying on AI to generate the entire website, I used it to help me understand concepts, troubleshoot issues and work through problems as they arose.
 
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
+This included:
+
+Explaining CSS concepts such as Flexbox, positioning and responsive layouts.
+
+Helping me identify and understand errors in my HTML, CSS and JavaScript.
+
+Providing guidance on implementing interactive navigation and dropdown menus.
+
+Explaining Git commands and helping me deploy the project using GitHub Pages.
+
+Supporting me with documenting the finished project.
+
+The most useful aspect of working with AI was being able to ask questions and receive explanations tailored to the specific problems I encountered.
+
+I found that working through the code myself, rather than simply copying suggested solutions, helped me build a stronger understanding of how everything worked.
+
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+GitHub - victoriapriceking-cyber
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Frontend Mentor - My Frontend Mentor Profile
