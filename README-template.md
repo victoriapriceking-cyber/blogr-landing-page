@@ -21,24 +21,30 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
 
 ## Overview
 
+Blogr is a responsive landing page built as part of a [Frontend Mentor](https://www.frontendmentor.io/) challenge using HTML, CSS and JavaScript.
+
+The project involved recreating a provided design for desktop and mobile screens, with a focus on responsive layouts, Flexbox, CSS positioning and interactive navigation.
+
+Key features include a responsive navigation menu with dropdown functionality, custom background gradients, SVG illustrations and layouts that adapt to different screen sizes.
+
+This project helped me strengthen my HTML and CSS skills, practise JavaScript DOM manipulation and gain experience using Git and GitHub for version control.
+
+
 ### The challenge
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+- View the optimal layout for the site depending on their device's screen size.
+
+- See hover states for all interactive elements on the page.
+
+- Open and close the navigation menus on desktop and mobile devices.
+
 
 ### Screenshot
 
-![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
